@@ -3,7 +3,7 @@
     "version" : "1.0",
     "description" : "Oracle Application Express Plug-in for retrieving information for a picked area within a map region.",
     "keywords" : ["Map", "Picker"],
-    "homepage" : "https://github.com/Wadie-ess/",
+    "homepage" : "https://github.com/Wadie-ess/Oracle_Map_info_Picker/",
     "bugs" : {
       "url" : "https://github.com/Wadie-ess/Oracle_Map_info_Picker/",
       "email" : "wadieessendoubi@gmail.com"
