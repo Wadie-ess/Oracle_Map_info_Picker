@@ -2,7 +2,7 @@
 
 ![cover](https://res.cloudinary.com/ddlvxyrdr/image/upload/v1711366542/Group_8735_ljmlmo.png)
 
-Map Region Info Picker is an Oracle Application Express Plug-in that provides information for a picked area within the map.
+Map-Region Info Picker is an Open Source Oracle Application Express Plug-in that provides information for a picked area within the map.
 
 ## Features
 
