@@ -1,0 +1,35 @@
+{
+    "name" : "Oracle Map info Picker",
+    "version" : "1.0",
+    "description" : "Oracle Application Express Plug-in for retrieving information for a picked area within a map region.",
+    "keywords" : ["Map", "Picker"],
+    "homepage" : "https://github.com/Wadie-ess/",
+    "bugs" : {
+      "url" : "https://github.com/Wadie-ess/Oracle_Map_info_Picker/",
+      "email" : "wadieessendoubi@gmail.com"
+    },
+    "license" : "MIT",
+    "commercial" : "No",
+    "author" : {
+      "name" : "ouadia essendoubi (wadie.)",
+      "email" : "wadieessendoubi@gmail.com",
+      "url" : "http://wadie.me",
+      "twitter" : "Wa__Die"
+      
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/Wadie-ess/Oracle_Map_info_Picker"
+    },
+    "oracle" : {
+      "versions" : ["18.0.0", "19.0.0", "23.0.0"],
+      "apex" : {
+        "versions" : ["21.02", "22.01", "22.02", "23.01"],
+        "plugin" : {
+          "internalName" : "TEST",
+          "type" : "dynamic action",
+          "previewImage" : "https://res.cloudinary.com/ddlvxyrdr/image/upload/v1711366542/Group_8735_ljmlmo.png"
+        }
+      }
+    }
+  }
