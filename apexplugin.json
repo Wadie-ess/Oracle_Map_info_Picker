@@ -28,7 +28,7 @@
         "plugin" : {
           "internalName" : "TEST",
           "type" : "dynamic action",
-            "demo" : "https://apex.oracle.com/pls/apex/r/a7a/basic-ui-training/login",
+          "demo" : "https://apex.oracle.com/pls/apex/r/a7a/basic-ui-training/login",
           "previewImage" : "https://res.cloudinary.com/ddlvxyrdr/image/upload/v1711366542/Group_8735_ljmlmo.png"
         }
       }
