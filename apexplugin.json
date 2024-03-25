@@ -22,9 +22,9 @@
       "url" : "https://github.com/Wadie-ess/Oracle_Map_info_Picker"
     },
     "oracle" : {
-      "versions" : ["18.0.0", "19.0.0", "23.0.0"],
+      "versions" : ["18.0.0", "19.0.0", "23.0.0",23.2.4],
       "apex" : {
-        "versions" : ["21.02", "22.01", "22.02", "23.01"],
+        "versions" : ["21.02", "22.01", "22.02", "23.01",23.2],
         "plugin" : {
           "internalName" : "TEST",
           "type" : "dynamic action",
