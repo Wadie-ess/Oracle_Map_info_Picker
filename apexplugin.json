@@ -26,7 +26,7 @@
       "apex" : {
         "versions" : ["19.1","19.2","20.1","20.2","21.1","21.2","22.1","22.2","23.1","23.2"],
         "plugin" : {
-          "internalName" : "Apex Map info Picker",
+          "internalName" : "com.wadie.mappicker",
           "type" : "dynamic action",
           "demo" : "https://apex.oracle.com/pls/apex/r/a7a/basic-ui-training/native-map?session=112049585555659",
           "previewImage" : "https://res.cloudinary.com/ddlvxyrdr/image/upload/v1711366542/Group_8735_ljmlmo.png"
